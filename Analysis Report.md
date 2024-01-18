@@ -1,4 +1,4 @@
-<h1>Module 12 Report</h1>
+<h1>Credit Risk Classification Report</h1>
 
 <h2>Overview of the Analysis</h2>
 
