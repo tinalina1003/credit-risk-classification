@@ -1,4 +1,4 @@
-<h1>Module 12 Report</h1><hr>
+<h1>Module 12 Report</h1>
 
 <h2>Overview of the Analysis</h2>
 
