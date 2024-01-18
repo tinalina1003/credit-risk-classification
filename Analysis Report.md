@@ -1,15 +1,15 @@
 <h1>Module 12 Report</h1><hr>
 
-<h2>Overview of the Analysis</h2><hr>
+<h2>Overview of the Analysis</h2>
 
-<h3>Purpose</h3><hr>
+<h3>Purpose</h3>
 The dataset used is a historical lending activity from a peer-to-peer lending services company to build a model that can identify creditworthiness of borrowers. 
 
-<h3>Dataset Information</h3><hr>
+<h3>Dataset Information</h3>
 The data includes financial information of the borrowers including loan size, interest rate, borrower's income, total debt, loan status etc. The datasize has 77536 borrowers with
 75036 having healthy loan statuses and 2500 with high-risk loan status. 
 
-<h3>Process and Methods</h3><hr>
+<h3>Process and Methods</h3>
 The process uses supervised learning algorithms from SciKit specifically the Train-Test-Split model. The methods used was to split the data into training and testing data and fit it to a logistic regression model using random_state = 1.
 After the first predictions were made, a second prediction was made using imbalanced-learn library to resample the data. The data produces a new model and was fitted to a logistic regression model once again.
 
